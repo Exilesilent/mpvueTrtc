@@ -1,0 +1,7 @@
+{
+    "enablePullDownRefresh" : false,
+	"usingComponents": {
+        "trtc-room": "../../components/trtc-room/trtc-room"
+    },
+    "navigationStyle": "custom"
+}
